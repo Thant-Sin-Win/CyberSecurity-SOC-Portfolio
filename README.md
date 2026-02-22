@@ -4,7 +4,7 @@
 
 This repository contains cybersecurity project work completed as part of my transition into the cyber security field. It includes hands on activities related to security monitoring, threat detection and incident response in a controlled cloud environment, along with supporting certifications and structured SOC related training completed through TryHackMe.
 
-I completed the Certificate IV in Cyber Security in January 2026 and have undertaken additional hands on lab based learning focused on security operations, threat detection and incident response workflows. This portfolio is intended to demonstrate practical familiarity with SIEM monitoring, security event analysis and automated response in a controlled cloud environment.
+I completed the Certificate IV in Cyber Security in January 2026 and have undertaken additional hands on lab based learning focused on security operations, threat detection and incident response workflows. This portfolio demonstrates practical familiarity with SIEM monitoring, phishing email investigation, security event analysis and automated response in simulated SOC environments.
 
 ---
 
@@ -19,6 +19,20 @@ Custom analytics rules were created to generate alerts based on suspicious authe
 Inbound login attempts from multiple global sources were monitored to simulate SOC style incident detection and response workflows.
 
 Project screenshots and related documentation are available in the SIEM_Honeypot_Project folder.
+
+---
+
+## Phishing Email Investigation Project
+
+A simulated Tier 1 Security Operations Centre (SOC) investigation was conducted involving a reported phishing email received by an employee requesting an urgent corporate password reset via an embedded hyperlink.
+
+Email header analysis was performed using MXToolbox to identify the sending server and originating IP address. Sender IP reputation was assessed using VirusTotal, and domain registration details were obtained through Whois lookup.
+
+URL analysis of the embedded hyperlink was attempted using URLScan to identify potential malicious behaviour. Indicators of Compromise (IOCs) including sender email address, domain, IP address and suspicious URL were documented and assessed as part of the investigation.
+
+Potential business impact was evaluated based on the likelihood of credential harvesting and unauthorised access to enterprise systems. Based on the findings, the reported email was classified as a Medium severity phishing incident and appropriate mitigation actions were recommended.
+
+Project screenshots, investigation evidence and a documented incident report are available in the Phishing-Email-Threat-Analysis-Lab folder.
 
 ---
 
