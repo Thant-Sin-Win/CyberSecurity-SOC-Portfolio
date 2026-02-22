@@ -108,8 +108,8 @@ URL analysis of the embedded hyperlink was attempted using URLScan. The scan was
 
 ---
 
-## SOC Incident Report
+## Investigation Report
 
-A full incident investigation report has been included in this repository:
+A detailed investigation report has been included in Markdown format for direct review:
 
-SOC_Incident_Report/Phishing_Email_Investigation_Report.pdf
+[View Investigation Report](InvestigationReport.md)
