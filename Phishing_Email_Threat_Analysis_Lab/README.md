@@ -106,10 +106,6 @@ URL analysis of the embedded hyperlink was attempted using URLScan. The scan was
 
 ![IOC Table](Screenshots/IOC_Table.png)
 
-### 11) SOC Report Preview (Optional)
-
-![SOC Report Preview](Screenshots/SOC_Report_Preview.png)
-
 ---
 
 ## SOC Incident Report
