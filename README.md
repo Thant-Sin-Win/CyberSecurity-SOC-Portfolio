@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Repository contains practical security monitoring and incident response work completed as part of my transition into cyber security. It includes a Microsoft Sentinel SIEM honeypot project used to detect and respond to simulated brute force login attempts, along with supporting cybersecurity certifications and structured SOC related training completed through TryHackMe.
+This repository contains cybersecurity project work completed as part of my transition into the cyber security field. It includes hands on activities related to security monitoring, threat detection and incident response in a controlled cloud environment, along with supporting certifications and structured SOC related training completed through TryHackMe.
 
 I completed the Certificate IV in Cyber Security in January 2026 and have undertaken additional hands on lab based learning focused on security operations, threat detection and incident response workflows. This portfolio is intended to demonstrate practical familiarity with SIEM monitoring, security event analysis and automated response in a controlled cloud environment.
 
@@ -74,4 +74,4 @@ The following tools and platforms were used across project and lab based activit
 
 ## Purpose
 
-This Repository serves as a record of practical cybersecurity learning activities undertaken to build foundational skills in security monitoring, incident detection and response within a Security Operations Centre environment.
+This repository serves as a record of practical cybersecurity learning activities undertaken to build foundational skills in security monitoring, incident detection and response within a Security Operations Centre environment.
