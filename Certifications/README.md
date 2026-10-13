@@ -10,6 +10,12 @@ The following certifications support foundational knowledge in cyber security, c
 
 ---
 
+## Comptia Secirity+
+
+![Cert IV Cyber Security](Images/CompTIA Security+ ce certificate-1.png)
+
+---
+
 ## AWS Certified Cloud Practitioner
 
 ![AWS CCP](Images/AWS_Cloud_Practitioner.png)
