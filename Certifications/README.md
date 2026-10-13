@@ -12,7 +12,7 @@ The following certifications support foundational knowledge in cyber security, c
 
 ## Comptia Secirity+
 
-![Cert IV Cyber Security](Images/CompTIA Security+ ce certificate-1.png)
+![Cert IV Cyber Security](Images/CompTIA%20Security+%20ce%20certificate-1.png)
 
 ---
 
