@@ -61,7 +61,7 @@ These are the lessons I've worked through during the initial organisation resear
 - **A potential risk is not a confirmed finding.** For example, delayed removal of a departing employee's access is a valid risk scenario, but I cannot claim it has occurred at the University without evidence.
 - **Evidence has to answer the question being tested.** A list of user permissions may show who has access, but it doesn't by itself prove that periodic access reviews took place.
 - **The assessment boundary matters.** A university has many systems and risks; keeping this exercise focused on workforce IAM makes it possible to assess a defined area rather than produce a broad, unsupported report.
-- **Being clear about unknowns is part of the work.** If internal configuration or access records aren't available, I should say that a control cannot be verified—not assume it is effective or ineffective.
+- **Being clear about unknowns is part of the work.** If internal configuration or access records aren't available, I should say that a control cannot be verified, not assume it is effective or ineffective.
 
 I still have more to learn about practical control testing, ISO control mapping, risk treatment and reporting. I'll update this section as I complete those stages.
 
