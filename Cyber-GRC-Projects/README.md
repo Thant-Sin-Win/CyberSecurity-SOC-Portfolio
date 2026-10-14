@@ -39,7 +39,7 @@ I'm building the project in stages rather than trying to produce a finished repo
 
 The later stages are planned work, not completed assessments.
 
-### How I'm Using AI in This Project
+## How I'm Using AI in This Project
 ---
 
 I'm using **ChatGPT and Google Gemini** as learning and research assistants throughout this project.
