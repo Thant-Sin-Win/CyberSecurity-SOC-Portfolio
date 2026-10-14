@@ -41,6 +41,8 @@ The later stages are planned work, not completed assessments.
 
 ### How I'm Using AI in This Project
 
+---
+
 I'm using **ChatGPT and Google Gemini** as learning and research assistants throughout this project.
 
 **ChatGPT** has helped me understand unfamiliar GRC concepts, break down assessment tasks, develop document structures, and work through practical examples. It has also helped prepare and organise some of the initial Word and Excel deliverables.
