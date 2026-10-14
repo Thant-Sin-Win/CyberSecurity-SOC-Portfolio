@@ -39,13 +39,19 @@ I'm building the project in stages rather than trying to produce a finished repo
 
 The later stages are planned work, not completed assessments.
 
-## How I'm using AI
+### How I'm Using AI in This Project
 
-I'm using ChatGPT as a **learning and drafting assistant** while working on this project. It helps me break down unfamiliar GRC tasks, understand terminology, propose document structures, and work through examples. It has also helped prepare and organise some of the initial Word and Excel deliverables.
+I'm using **ChatGPT and Google Gemini** as learning and research assistants throughout this project.
 
-I'm being open about that because I don't want to imply I produced everything without assistance. At the same time, my aim isn't simply to collect AI-generated documents. I'm reviewing the material, questioning assumptions, checking claims against public sources, and going back through the methodology so I can explain the work myself. Where information or a source claim hasn't been fully verified, I want the repository to say so.
+**ChatGPT** has helped me understand unfamiliar GRC concepts, break down assessment tasks, develop document structures, and work through practical examples. It has also helped prepare and organise some of the initial Word and Excel deliverables.
 
-I see AI as a useful tool, but **understanding the assessment and taking responsibility for what I publish are my responsibility**.
+I've used **Google Gemini** mainly for research, particularly when gathering information about the University of Melbourne. It helped me find publicly available information about the University's size, authentication systems, security policies, governance, and other relevant areas. It also provided links to official sources that I could use to support and verify the information collected.
+
+I'm being open about using these tools because I don't want to give the impression that I produced everything independently. However, my goal isn't simply to generate documents with AI. I'm using this project to learn how GRC work is actually carried out, understand the reasoning behind each assessment, and develop practical skills that I can apply in a real workplace.
+
+I'm reviewing the materials, questioning assumptions, checking information against public sources, and working through the methodology to make sure I understand what I'm doing. Where information hasn't been fully verified, I intend to make that clear rather than present it as an established fact.
+
+I see AI as a useful resource for learning, researching, and improving my work. But ultimately, **understanding the assessment, making informed decisions, and taking responsibility for what I publish are my responsibility.**
 
 ## What I've learned so far
 
